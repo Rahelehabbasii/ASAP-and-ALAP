@@ -1,2 +1,2 @@
-# ASAP
-As Soon As Possible  Chart use for Synthesis Digital
+# ALAP
+As Late As Possible  Chart use for Synthesis Digital
